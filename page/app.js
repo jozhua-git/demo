@@ -10,6 +10,7 @@ App({
   },
   globalData: {
     hasLogin: false,
+		isBad:"",
 	setColor:3442
   }
 })
